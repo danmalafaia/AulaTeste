@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AulaTeste</string>
+    <string name="name">Nome</string>
+    <string name="save_info">Salvar no dispositivo</string>
+    <string name="send">Enviar</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="sending_info">Enviando informações...</string>
+    <string name="user_information">info_usuario</string>
+</resources>
